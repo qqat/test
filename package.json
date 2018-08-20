@@ -1,0 +1,14 @@
+{
+  "name": "jenktest",
+  "version": "1.0.0",
+  "description": "A Hello World HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "author": "q.qat.o1",
+  "license": "None",
+  "devDependencies": { "test": ">=0.6.0" }
+}
+
